@@ -2,8 +2,7 @@
 
 ------
 
-#### I am a Chiayi High School student in Taiwan
-#### My favorite activities are sports and coding
+#### I am a Chiayi High School student in Taiwan.  My favorite activities are sports and coding.
 - #### 🌐[MY WEBSITE](https://sites.google.com/view/hyjdevelop-charlie960906/%E9%A6%96%E9%A0%81)
 - #### 📩[MY EMAIL](mailto:charlie960906@gmail.com)
 - #### <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" /> [MY INSTAGEAM](https://www.instagram.com/hyjcharlie960906/?hl=zh-tw)
