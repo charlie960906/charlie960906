@@ -16,7 +16,7 @@
 
 
 
-<h2 align="center"> 🎮Game Time🔝 </h2>
+<h2 align="center"> 🎮Game Time </h2>
 
 ----
 
