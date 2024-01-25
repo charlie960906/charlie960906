@@ -10,19 +10,19 @@
 
 <h2 align="center">MY WORK</h2>
 
-- #### SLRC(Student Learning Resource Community)
-    - MY Position : principal
-    - what are We doing?
+- ### SLRC(Student Learning Resource Community)
+    - #### MY Position : principal
+    - #### what are We doing?
         we who are a community are committed to helping students learn and provide resources.
-- #### CYSH 102 
-    - MY Position : Class President
-        yes,just Class president,no thing can say,
-- #### CYSH_SA
-    - MY Position : Member
-        OK,I'm amember of CYSH Student Association.Our job is to fight for student rights and organize events.
-- #### CYSH_IRC
-    - MY Position : Member
-        This is an information society.We usually talk about how to write beter code.
+- ### CYSH 102 
+    - ### MY Position : Class President
+      ###  yes,just Class president,no thing can say,
+- ### CYSH_SA
+    - #### MY Position : Member
+       #### OK,I'm amember of CYSH Student Association.Our job is to fight for student rights and organize events.
+- ### CYSH_IRC
+    - #### MY Position : Member
+        #### This is an information society.We usually talk about how to write beter code.
 <h2 align="center">👩‍💻 My Skill </h2>
 
 ---
