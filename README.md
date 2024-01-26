@@ -3,17 +3,14 @@
 ------
 
 ### I am a Chiayi High School student in Taiwan.  My favorite activities are sports,coding and play online game.
-### 🌐[MY WEBSITE](https://sites.google.com/view/hyjdevelop-charlie960906/%E9%A6%96%E9%A0%81)
-### <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> [MY EMAIL](mailto:charlie960906@gmail.com) 
-### <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> [MY INSTAGEAM](https://www.instagram.com/hyjcharlie960906/?hl=zh-tw)
-### <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> [MY DISCORD](https://discord.gg/eg66QzKkWR) 
+### 🌐[MY WEBSITE](https://sites.google.com/view/hyjdevelop-charlie960906/%E9%A6%96%E9%A0%81) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> ](mailto:charlie960906@gmail.com) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/hyjcharlie960906/?hl=zh-tw)[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> ](https://discord.gg/eg66QzKkWR) 
 
 <h2 align="center">MY WORK</h2>
 
 - ### SLRC(Student Learning Resource Community)
     - ### MY Position : principal
     - ### what are We doing?
-        we who are a community are committed to helping students learn and provide resources.
+        #### we who are a community are committed to helping students learn and provide resources.
 - ### CYSH 102 
     - ### MY Position : Class President
       ###  yes,just Class president,no thing can say,
