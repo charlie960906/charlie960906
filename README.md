@@ -7,19 +7,27 @@
 
 <h2 align="center">MY WORK</h2>
 
-- ### SLRC(Student Learning Resource Community)   [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> ](https://discord.gg/RBFcN8MSzS ) 
-    - ### MY Position : principal
-    - ### what are We doing?
-        #### we who are a community are committed to helping students learn and provide resources.
-- ### CYSH 102 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cysh._.102/?hl=zh-tw)
-    - ### MY Position : Class President
-      ###  yes,just Class president,no thing can say,
-- ### CYSH_SA [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cyshsa39th/?hl=zh-tw)
-    - ### MY Position : Member
-       ### OK,I'm amember of CYSH Student Association.Our job is to fight for student rights and organize events.
-- ### CYSH_IRC [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cysh_irc/?hl=zh-tw)
-    - ### MY Position : Member
-        ### This is an information society.We usually talk about how to write beter code.
+- ### SLRC(Student Learning Resource Community)   
+    
+    [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> ](https://discord.gg/RBFcN8MSzS ) 
+    
+     - #### MY Position : principal
+     - #### what are We doing?
+        ##### we who are a community are committed   to helping students learn and provide resources.
+- ### CYSH 102 
+  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cysh._.102/?hl=zh-tw)
+    #### MY Position : Class President
+    #### yes, just Class president,no thing can say.
+- ### CYSH_SA 
+    [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cyshsa39th/?hl=zh-tw)
+    - #### MY Position : Member
+    - #### what are We doing?
+       ##### OK,I'm amember of CYSH Student Association.Our job is to fight for student rights and organize events.
+- ### CYSH_IRC 
+    [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cysh_irc/?hl=zh-tw)
+    - #### MY Position : Member
+    - #### what are We doing?
+        ##### This is an information society.We usually talk about how to write beter code.
 <h2 align="center">👩‍💻 My Skill </h2>
 
 ---
