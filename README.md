@@ -3,30 +3,30 @@
 ------
 
 ### I am a Chiayi High School student in Taiwan.  My favorite activities are sports,coding and play online game.
-### [<img src="https://img.shields.io/badge/My website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />](https://sites.google.com/view/hyjdevelop-charlie960906/%E9%A6%96%E9%A0%81) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> ](mailto:charlie960906@gmail.com) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/hyjcharlie960906/?hl=zh-tw)[<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"/>](https://www.threads.net/@hyjcharlie960906) [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> ](https://discord.com/invite/6MbHT4e4 ) 
+### [<img src="https://img.shields.io/badge/My website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />](https://sites.google.com/view/hyjdevelop-charlie960906/%E9%A6%96%E9%A0%81) [<img src="https://img.shields.io/badge/charlie960906@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> ](mailto:charlie960906@gmail.com) [<img src="https://img.shields.io/badge/hyjcharlie960906-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/hyjcharlie960906/?hl=zh-tw)[<img src="https://img.shields.io/badge/Hyjcarlie960906-000000?style=for-the-badge&logo=Threads&logoColor=white"/>](https://www.threads.net/@hyjcharlie960906) [<img src="https://img.shields.io/badge/hyjcharlie960906-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> ](https://discord.com/invite/6MbHT4e4 ) 
 
 <h2 align="center"> 🏡 MY WORK</h2>
 
  - <h2>  SLRC(Student Learning Resource Community) </h2>
 
-    [<img src="https://img.shields.io/badge/My website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />](https://sites.google.com/d/1fXbsHCm3cjuDiBD-ylik9p6Zexcec9Ap/p/1WOmBXxnOt5cCwiNs9qI0dV8Ud86_iFdb/edit) [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> ](https://discord.gg/RBFcN8MSzS ) 
+    [<img src="https://img.shields.io/badge/SLRC website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />](https://sites.google.com/d/1fXbsHCm3cjuDiBD-ylik9p6Zexcec9Ap/p/1WOmBXxnOt5cCwiNs9qI0dV8Ud86_iFdb/edit) [<img src="https://img.shields.io/badge/SLRC.TW-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/slrc.tw) [<img src="https://img.shields.io/badge/SLRC.TW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/slrc.tw/?hl=zh-tw) [<img src="https://img.shields.io/badge/SLRC Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> ](https://discord.gg/RBFcN8MSzS ) 
     
      - ### MY Position : <font color=#006CFF >  Principal  </font>
      - ### What are We doing?
         #### <font color=3E3E3E> We who are a community are committed   to helping students learn and provide resources.
        </font> 
 - ## CYSH 102 
-  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cysh._.102/?hl=zh-tw)
+  [<img src="https://img.shields.io/badge/CYSH_102-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cysh._.102/?hl=zh-tw)
     - ### MY Position : <font color=#006CFF > Class President </font>
     - ### What are We doing?
         #### <font color=#3E3E3E> We are The 100th CYSH102,we are crazy、smart and exciting.</font>
 - ## CYSH_SA 
-    [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cyshsa39th/?hl=zh-tw)
+    [<img src="https://img.shields.io/badge/CYSH_SA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cyshsa39th/?hl=zh-tw)
     - ### MY Position :  <font color=#006CFF> Member </font>
     - ### What are We doing?
        #### <font color=#3E3E3E> OK,I'm amember of CYSH Student Association.Our job is to fight for student rights and organize events. </font>
 - ## CYSH_IRC 
-    [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cysh_irc/?hl=zh-tw)
+    [<img src="https://img.shields.io/badge/CYSH_IRC-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cysh_irc/?hl=zh-tw)
     - ### MY Position :  <font color=#006CFF >  Member </font>
     - ### what are We doing?
         ####  <font color=#3E3E3E> This is an information society.We usually talk about how to write beter code. </font> 
