@@ -16,8 +16,9 @@
         #### we who are a community are committed   to helping students learn and provide resources.
 - ## CYSH 102 
   [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cysh._.102/?hl=zh-tw)
-    #### MY Position : Class President
-    #### yes, just Class president,no thing can say.
+    - ### MY Position : Class President
+    - ### what are We doing?
+        ####
 - ## CYSH_SA 
     [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cyshsa39th/?hl=zh-tw)
     - ### MY Position : Member
