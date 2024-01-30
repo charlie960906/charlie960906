@@ -9,7 +9,7 @@
 
  - <h2>  SLRC(Student Learning Resource Community) </h2>
 
-    [<img src="https://img.shields.io/badge/SLRC website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />](https://sites.google.com/d/1fXbsHCm3cjuDiBD-ylik9p6Zexcec9Ap/p/1WOmBXxnOt5cCwiNs9qI0dV8Ud86_iFdb/edit) [<img src="https://img.shields.io/badge/SLRC.TW-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/slrc.tw) [<img src="https://img.shields.io/badge/SLRC.TW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/slrc.tw/?hl=zh-tw) [<img src="https://img.shields.io/badge/SLRC Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> ](https://discord.gg/RBFcN8MSzS ) 
+    [<img src="https://img.shields.io/badge/SLRC website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />](https://sites.google.com/d/1fXbsHCm3cjuDiBD-ylik9p6Zexcec9Ap/p/1WOmBXxnOt5cCwiNs9qI0dV8Ud86_iFdb/edit) [<img src="https://img.shields.io/badge/ slrc.hyjdevelop@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> ](mailto:slrc.hyjdevelop@gmail.com)[<img src="https://img.shields.io/badge/SLRC.TW-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/slrc.tw) [<img src="https://img.shields.io/badge/SLRC.TW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/slrc.tw/?hl=zh-tw) [<img src="https://img.shields.io/badge/SLRC Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> ](https://discord.gg/RBFcN8MSzS ) 
     
      - ### MY Position : <font color=#006CFF >  Principal  </font>
      - ### What are We doing?
