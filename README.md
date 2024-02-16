@@ -21,7 +21,7 @@
     - ### What are We doing?
         #### <font color=#3E3E3E> We are The 100th CYSH102,we are crazy、smart and exciting.</font>
 - ## CYSH_SA 
-    [<img src="https://img.shields.io/badge/CYSHSA39TH-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/slrc.tw)[<img src="https://img.shields.io/badge/CYSHSA39th-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cyshsa39th/?hl=zh-tw)
+    [<img src="https://img.shields.io/badge/CYSHSA39TH-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/cyshsa38th)[<img src="https://img.shields.io/badge/CYSHSA39th-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/cyshsa39th/?hl=zh-tw)
     - ### MY Position :  <font color=#006CFF> Member </font>
     - ### What are We doing?
        #### <font color=#3E3E3E> OK,I'm amember of CYSH Student Association.Our job is to fight for student rights and organize events. </font>
